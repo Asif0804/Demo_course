@@ -1,0 +1,14 @@
+{
+  "authors": [
+    {"name": "Asif1"},
+    {"name": "Asif2"},
+    {"name": "Asif3"},
+    {"name": "Asif4"}
+  ],
+  "books": [
+    {"title": "Book 1", "author": "Asif1", "publication_year": 2022, "isbn": "1234567890123"},
+    {"title": "Book 2", "author": "Asif2", "publication_year": 2021, "isbn": "9876543210987"},
+    {"title": "Book 3", "author": "Asif3", "publication_year": 2020, "isbn": "9876543210987"},
+    {"title": "Book 4", "author": "Asif4", "publication_year": 2019, "isbn": "9876543210987"}
+  ]
+}
